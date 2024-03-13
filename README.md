@@ -14,7 +14,7 @@
 
 </div>
   <div align="center">
-    <img src="image.JPG" width="100%" height="100%">
+    <img src="image.JPG" width="5%" height="5%">
   </div>
 </header>
 <body>
