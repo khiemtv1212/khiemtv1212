@@ -14,10 +14,9 @@
 
 </div>
   <div align="center">
-<!--     <img src="https://github.com/khiemtv1212/khiemtv1212/blob/main/image.JPG" width="50%" height="50%"> -->
+<!--<img src="https://github.com/khiemtv1212/khiemtv1212/blob/main/image.JPG" width="50%" height="50%">-->
         <img src="https://github.com/khiemtv1212/khiemtv1212/blob/main/Berserk.JPG" width="50%" height="50%">
   </div>
-  https://github.com/khiemtv1212/Images/blob/main/89717606_p0.jpg
 </header>
 <body>
 
