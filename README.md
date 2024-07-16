@@ -1,8 +1,8 @@
 <!-- Header -->
 <header>
-  <h1 align="center">
+<!--   <h1 align="center">
     CAN WE FUCK AND STILL BE FRIENDS.
-  </h1>
+  </h1> -->
 
 <div align="center">
 
