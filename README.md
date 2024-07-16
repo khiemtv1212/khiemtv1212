@@ -1,1 +1,1 @@
-<h1 align="center">卍解</h1>
+<h1 align="center" size="10%">卍解</h1>
