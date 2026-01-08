@@ -1,18 +1,20 @@
 
 <div align="center">
 
-## 👋 Welcome to My Profile
+## ✨ 私のプロフィールへようこそ ✨
 
-### **Khiem Tran**
-*Full Stack Developer • Digital Creator • Problem Solver*
+### **キエム・トラン**
+**_Khiem Tran_**
 
 ```
-Passionate about building innovative solutions | Continuous Learning Enthusiast | Tech Innovator
+🎌 フルスタック開発者 | デジタルクリエイター | 問題解決者 🎌
 ```
+
+### 「革新的なソリューションを構築することに情熱を持っています」
 
 ---
 
-### 🌐 Connect With Me
+### 🌸 つながろう - コンタクト情報
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/khiemtv1212)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@khiemtv1212)
@@ -22,19 +24,35 @@ Passionate about building innovative solutions | Continuous Learning Enthusiast 
 
 ---
 
-### 💡 About Me
-- 🚀 Enthusiastic about new technologies and frameworks
-- 🎯 Focused on creating impactful digital solutions
-- 📚 Constantly learning and improving skills
-- 🤝 Open to collaboration and new opportunities
+### 💫 私について - 自己紹介
 
-### 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Python, Express
-- **Databases:** MongoDB, PostgreSQL, Firebase
-- **Tools:** Git, Docker, VS Code
+- 🎨 **夢:** 新しい技術と革新的なフレームワークに情熱を持つ
+- 🎯 **目標:** インパクトのあるデジタルソリューションの創造
+- 📖 **修行:** スキル向上のための継続的な学習
+- 🤝 **気持ち:** コラボレーションと新しい機会に開放的
 
-### 📊 Featured Content
+### ⚔️ スキルセット - 技術スタック
+
+```
+┌─ フロントエンド ─────────────────┐
+│ HTML • CSS • JavaScript • React    │
+└─────────────────────────────────┘
+
+┌─ バックエンド ────────────────────┐
+│ Node.js • Python • Express • Django │
+└─────────────────────────────────┘
+
+┌─ データベース ──────────────────┐
+│ MongoDB • PostgreSQL • Firebase   │
+└─────────────────────────────────┘
+
+┌─ ツール ──────────────────────┐
+│ Git • Docker • VS Code • Linux   │
+└─────────────────────────────────┘
+```
+
+### 🎬 注目コンテンツ - フィーチャー
+
 <a href="https://github.com/khiemtv1212/khiemtv1212/blob/main/1111.gif">
   <img src="https://github.com/khiemtv1212/khiemtv1212/blob/main/1111.gif" width="400" alt="Featured Project"/>
 </a>
@@ -42,7 +60,13 @@ Passionate about building innovative solutions | Continuous Learning Enthusiast 
 ---
 
 <p align="center">
-  <i>⭐ Feel free to explore my repositories and reach out for collaboration!</i>
+
+**✨ ありがとうございました ✨**
+
+_私のリポジトリを探索して、コラボレーション機会についてお気軽にお問い合わせください！_
+
+🔮 _「頑張り続ける」 - Keep Pushing Forward_ 🔮
+
 </p>
 
 </div>
