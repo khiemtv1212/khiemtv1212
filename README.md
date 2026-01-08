@@ -1,24 +1,22 @@
 
 <header>
    <h1 align="center">
-    ✨ キエム チャン 👾 ✨
+    Khiem Tran
   </h1> 
 
 <h3 align="center">
-    ～ 🎮 エアドロップ フリースタイル 🎮 ～
+    Full Stack Developer | Digital Creator | Problem Solver
     </br>
-    ✦ 生き甲斐: 頑張り続ける ✦
-    </br>
-    <i>「毎日、新しい可能性への挑戦」</i>
+    Passionate about building innovative solutions and continuous learning
 </h3> 
 
 <div align="center">
 
-  [![Twitter Badge](https://img.shields.io/badge/-khiemtv1212-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/khiemtv1212)](https://twitter.com/khiemtv1212) 
-  [![Youtube Badge](https://img.shields.io/badge/-khiemtv1212-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@khiemtv1212) 
-  [![Linkedin Badge](https://img.shields.io/badge/-khiemtv1212-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khiemtv1212/) 
-  [![Intagram Badge](https://img.shields.io/badge/-khiemtv1212-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/khiemtv1212) 
-  [![Email Badge](https://img.shields.io/badge/-khiemtv1212-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:khiemtv1212@gmail.com)
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-khiemtv1212-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/khiemtv1212) 
+  [![YouTube Badge](https://img.shields.io/badge/YouTube-khiemtv1212-e74c3c?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@khiemtv1212) 
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-khiemtv1212-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khiemtv1212/) 
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-khiemtv1212-e84393?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/khiemtv1212) 
+  [![Email Badge](https://img.shields.io/badge/Email-khiemtv1212-c0392b?style=flat-square&logo=gmail&logoColor=white)](mailto:khiemtv1212@gmail.com)
 
 </div>
   <div align="center">
